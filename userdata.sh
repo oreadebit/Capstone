@@ -3,7 +3,7 @@ apt-get update -y
 apt-get install git -y
 apt-get install python3 -y
 cd /home/ubuntu/
-TOKEN=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
+TOKEN=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
 git clone https://$TOKEN@<https://github.com/oreadebit/Capstone.git>
 cd /home/ubuntu/Capstone
 apt install python3-pip -y
